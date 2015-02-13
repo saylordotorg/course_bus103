@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS103: Introduction to Financial Accounting"
+course_description: "An introductory survey of financial accounting in preparation for more advanced business courses. Topics include the compilation and analysis of financial statements, determination of the value of a firm, and evaluation of a firm and its competitors."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Accounting for Property, Plant, and Equipment** <span
 id="8"></span> 
 *Property, plant, and equipment require the largest amount of investment

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS103: Introduction to Financial Accounting"
+course_description: "An introductory survey of financial accounting in preparation for more advanced business courses. Topics include the compilation and analysis of financial statements, determination of the value of a firm, and evaluation of a firm and its competitors."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: Long-Term Liabilities and Stockholders’ Equity** <span
 id="9"></span> 
 *This unit addresses the two ways in which a company can raise funds:

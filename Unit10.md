@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS103: Introduction to Financial Accounting"
+course_description: "An introductory survey of financial accounting in preparation for more advanced business courses. Topics include the compilation and analysis of financial statements, determination of the value of a firm, and evaluation of a firm and its competitors."
+next: ../Unit11
+previous: ../Unit09
+---
 **Unit 10: Statement of Cash Flows** <span id="10"></span> 
 *Remember that the balance sheet and income statement are prepared using
 the accrual basis of accounting. The statement of cash flows is prepared

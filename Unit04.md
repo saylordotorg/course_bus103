@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS103: Introduction to Financial Accounting"
+course_description: "An introductory survey of financial accounting in preparation for more advanced business courses. Topics include the compilation and analysis of financial statements, determination of the value of a firm, and evaluation of a firm and its competitors."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Completing the Accounting Cycle** <span id="4"></span> 
 *Up until this point in the course, you have been learning how to take
 the transactions that happen within a business entity and process this

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS103: Introduction to Financial Accounting"
+course_description: "An introductory survey of financial accounting in preparation for more advanced business courses. Topics include the compilation and analysis of financial statements, determination of the value of a firm, and evaluation of a firm and its competitors."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Unit 6: Accounting for Inventory – Measuring and Reporting**
 <span id="6"></span> 
 *In order for many businesses to conduct daily activity, they will have
